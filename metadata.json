@@ -1,0 +1,6 @@
+{
+  "name": "News Intelligence Hub",
+  "description": "An AI-powered news intelligence platform for discovering categories, short summaries, user onboarding, personalization, bookmark filters, and trend diagnostics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
