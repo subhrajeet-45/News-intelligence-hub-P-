@@ -71,7 +71,7 @@ This project leveraged a diverse AI stack to ensure high-speed development and r
 *   **Multi-language Support:** Expanding the hub to translate and summarize international news in real-time.
 *   **Agentic Workflows:** Using AI agents to cross-verify news facts across multiple global sources.
 
-Project Summary: News Intelligence Hub
+## Project Summary: News Intelligence Hub
 Objective and AI Strategy: The News Intelligence Hub was developed over a 48-hour period for the AI Vibe Coding Challenge 2026 to solve the problem of information overload
 . The development followed a "Vibe Coding" workflow, leveraging ChatGPT for logic and backend refactoring, Google AI Studio for rapid Gemini API prototyping, and Google NotebookLM for aligning project features with the mandatory evaluation rubric .
 Technical Implementation: The application is built with a 99.5% TypeScript stack using React, Vite, and Node.js/Express
