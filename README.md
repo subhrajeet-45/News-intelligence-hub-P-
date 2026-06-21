@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 Deployment & Demo
-*   **Live Application:** [News Intelligence Hub](https://news-intelligence-hub-389907065421.asia-southeast1.run.app)
-*   **Demonstration Video:** [Watch the Full Walkthrough](https://drive.google.com/file/d/1FGw7GuqYUAuB5eybA754ulYdu14qDbLk/view?usp=drive_link)
+*   **Live Application:** https://news-intelligence-hub-389907065421.asia-southeast1.run.app
+*   **Demonstration Video:** 
 
 ---
 
