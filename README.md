@@ -43,6 +43,54 @@
 
 ---
 
+
+🎯 Use Cases
+
+* Efficient Information Consumption: Leverage AI-generated briefings and automated summaries to quickly understand complex events and key takeaways
+.
+* Interactive Article Analysis: Utilize a RAG-based AI chat to ask context-aware questions about specific news stories
+.
+* Hands-Free Productivity: Use voice input for searching and voice output to listen to news briefings while multitasking
+.
+* Privacy and Offline Support: Process news summaries locally using Ollama and the llama3.2 model for increased data privacy
+.
+* Real-Time Monitoring: Track breaking news and trending topics through a dynamic, live intelligence dashboard
+.
+* Reliable Performance: Ensure a functional experience with a Gemini Cloud Fallback that activates if local LLM services are offline
+.
+* Advanced Discovery: Explore news using natural language semantic search that understands user intent beyond simple keywords
+.
+* Personalised Research: Save important developments with smart bookmarks and receive interest-based content recommendations
+.
+
+## 📸 Screenshots
+
+
+
+* Homepage
+
+<img width="1815" height="860" alt="Screenshot 2026-06-21 190517" src="https://github.com/user-attachments/assets/48275b0a-c941-441e-9962-30e49ef7a480" />
+
+* AI Briefing Section
+
+<img width="1792" height="866" alt="Screenshot 2026-06-21 190132" src="https://github.com/user-attachments/assets/45e619ac-6ba1-4a44-b237-d332b1101557" />
+
+* Live News Intelligence Dashboard
+
+<img width="1825" height="852" alt="Screenshot 2026-06-21 190155" src="https://github.com/user-attachments/assets/cd16ef62-3abd-4672-9f01-a87b0a65131f" />
+
+* Ai RAG chat
+
+<img width="1798" height="851" alt="Screenshot 2026-06-21 190224" src="https://github.com/user-attachments/assets/cb6e8a1a-d9a9-4a8b-996e-fdf8c134de98" />
+  
+* Categorywise search
+
+<img width="1767" height="855" alt="Screenshot 2026-06-21 190241" src="https://github.com/user-attachments/assets/38f7e38c-1421-441e-a4e4-2196faea45b8" />
+
+* Trending News
+
+<img width="1825" height="845" alt="Screenshot 2026-06-21 190251" src="https://github.com/user-attachments/assets/ffd0f3d8-f35f-4c41-a14e-4fa8ce5ece13" />
+
 ## ⚙ Getting Started
 
 ### Prerequisites
