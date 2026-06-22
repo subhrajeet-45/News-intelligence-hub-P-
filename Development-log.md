@@ -27,7 +27,6 @@ This project leveraged a diverse AI stack to ensure high-speed development and r
     *   **Llama 3.2 (via Ollama):** The local LLM used for private, context-aware article chatting and RAG-based analysis.
 
 ---
-Based on the mandatory requirements for your **`Development-log.md`** and your specific project journey, here is the refined and professional "Important Prompts Given" section. This version is polished for direct inclusion in your final file to showcase your **Prompt Engineering Skills** (part of the 100-mark rubric).
 
 ***
 
