@@ -4,8 +4,7 @@
 
 # 📝 Development Log: News Intelligence Hub
 **Developer:** Subhrajeet Dhal  
-**Project:** AI-Powered News Intelligence & Discovery Platform  
-**Timeline:** 18 June 2026 – 21 June 2026  
+**Project:** AI-Powered News Intelligence & Discovery Platform   
 
 ---
 
