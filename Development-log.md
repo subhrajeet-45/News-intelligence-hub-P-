@@ -28,16 +28,28 @@ This project leveraged a diverse AI stack to ensure high-speed development and r
     *   **Llama 3.2 (via Ollama):** The local LLM used for private, context-aware article chatting and RAG-based analysis.
 
 ---
+Based on the mandatory requirements for your **`Development-log.md`** and your specific project journey, here is the refined and professional "Important Prompts Given" section. This version is polished for direct inclusion in your final file to showcase your **Prompt Engineering Skills** (part of the 100-mark rubric).
 
-## 📝 Important Prompts Given
-### 1. Core Feature Development
-> *"Create a News Intelligence Hub using React, TypeScript, and Express. Integrate the Google Gemini API for semantic search to replace keyword-based discovery. Ensure the UI is clean and professional with a focus on real-time news tracking."*
+***
 
-### 2. Hybrid AI Integration (Bonus Mark Strategy)
-> *"Update the AI provider to include an 'Ollama Local' toggle. Allow users to select the **llama3.2** model for an interactive 'Chat with Article' feature. Build a fallback system that redirects requests to Gemini Cloud if the local Ollama server is offline."*
+### **📝 Important Prompts Given**
 
-### 3. Voice Interaction Implementation
-> *"Implement Voice Input for searching news and Voice Output (text-to-speech) for reading AI-generated news briefings aloud, enabling a hands-free user experience."*
+To build the **News Intelligence Hub**, I utilized a series of high-context, iterative prompts to guide the AI assistants in creating a cohesive, full-stack application.
+
+#### **1. Initial Foundation & Semantic Discovery**
+> *"Act as a Senior Full-Stack Engineer. Generate a React/TypeScript dashboard for a 'News Intelligence Hub'. Use Node.js for the backend. Integrate the **Google Gemini API** to perform semantic searches instead of simple keyword matching. The goal is to allow users to find news based on natural language intent. Ensure the UI is clean and professional with category-based filtering for Business, Tech, and Science."*
+
+#### **2. Hybrid AI Integration & RAG System (Bonus Feature)**
+> *"I need to implement a local LLM option to improve privacy. Update the `AIProvider` to include a toggle for 'Ollama Local'. Use the **llama3.2** model to build a 'Chat with Article' interface. Implement **Retrieval-Augmented Generation (RAG)** by passing bookmarked article text as context to the local model. Include a robust fallback system that automatically switches back to **Gemini Cloud** if the local Ollama server is offline."*
+
+#### **3. Interactive Voice Capabilities (Bonus Feature)**
+> *"Implement a voice-first productivity mode. Integrate the Web Speech API to enable **Voice Input** for hands-free news searching. Additionally, create a **Voice Output** (text-to-speech) feature that reads the AI-generated news briefings aloud, allowing users to stay updated while multitasking."*
+
+#### **4. Technical Infrastructure & Troubleshooting**
+> *"The frontend is facing CORS errors when connecting directly to `localhost:11434` for Ollama. Refactor the **Express server** to act as a backend proxy. All Ollama requests from the client should now route through `/api/ollama` on the server to bridge the communication. Also, implement a health-check endpoint to verify if the local model is pulled and active."*
+
+#### **5. Compliance & Requirement Alignment**
+> *"Act as a Project Manager using **Google NotebookLM**. Analyze the 'AI Vibe Coding Challenge 2026.pdf' and cross-reference my current repository features. Identify any missing mandatory components in the `README.md` or `Development-log.md` and suggest improvements to ensure I qualify for all **Bonus Mark** categories like Voice, RAG, and Local LLMs."*
 
 ---
 
